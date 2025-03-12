@@ -1,0 +1,142 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "wynosi {@minRTP}%",
+    "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}.",
+    "subheading": "Opłata za LOS: {ticketCost}",
+    "prizeLevel": "Stopień wygranej",
+    "description": "Opis",
+    "prizeValue": "Wartość wygranej",
+    "descriptionText1": "Wygrana dopasowanej liczby",
+    "descriptionText2": "Wygrana bonusowa",
+    "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {odds}.",
+    "prizeDivision": "Stopień wygranej",
+    "prizeRemaining": "Pozostało do wygrania",
+    "oddsPerPlay": "Szansa na wygraną"
+  },
+  "title": "Sztabki",
+  "MenuCommand": {
+    "price": "Cena",
+    "stake": "Stawka",
+    "howToPlay": "Zasady gry",
+    "paytable": "Tabela wygranych",
+    "close": "Zamknij",
+    "audio": {
+      "sound": "Dźwięk",
+      "on": "Wł.",
+      "off": "Wył."
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+    "button_wheel" : "OBRÓĆ",
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "KONTYNUUJ",
+	"button_retry": "PONÓW",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "AUTO",
+    "button_autoPlayCollectBonus" : "AUTO",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+
+    "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+    "message_win": {
+      "BUY": "ŁĄCZNA WYGRANA",
+      "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+    },
+    "howToPlayTitle" : "ZASADY GRY",
+    "bonusCard" : {
+      "InstantWin" : "NATYCHMIASTOWA\nWYGRANA",
+      "WheelBonus" : "BONUS\nKOŁA",
+      "CollectBonus" : "BONUS\nNAGRODY"
+    },
+    "howToPlay": {
+      "page1":{
+        "landscape":{
+          "text1":"Dopasuj liczby do wygrywających liczb i wygraj nagrodę.",
+          "text2":"{instantWin} Odkryj symbol korony dla natychmiastowej wygranej.",
+          "text3":"{instantWin10X} Symbol korony 2x, 5x lub 10x pomnoży nagrodę."
+        },
+        "portrait":{
+          "text1":"Dopasuj liczby do wygrywających liczb i wygraj nagrodę.",
+          "text2":"{instantWin} Odkryj symbol korony dla natychmiastowej wygranej.",
+          "text3":"{instantWin10X} Symbol korony 2x, 5x lub 10x pomnoży nagrodę."
+        }
+      },
+      "page2":{
+        "landscape":{
+          "text1":"{wheel} Odkryj symbol bonusu koła, aby uruchomić bonus koła.",
+          "text2":"BONUS KOŁA – zakręć kołem. Koło wewnętrzne odkrywa\nnagrodę, a koło zewnętrzne odkrywa mnożnik nagrody."
+        },
+        "portrait":{
+          "text1":"{wheel} Odkryj symbol bonusu koła, aby uruchomić\nbonus koła.",
+          "text2":"BONUS KOŁA – zakręć kołem.\nKoło wewnętrzne odkrywa nagrodę,\na koło zewnętrzne odkrywa mnożnik nagrody."
+        }
+      },
+      "page3":{
+        "landscape":{
+          "text1":"{collect} Odkryj symbol bonusu nagrody, aby uruchomić bonus nagrody.",
+          "text2":"BONUS NAGRODY – naciskaj sztabki złota, aby odkrywać nagrody. Nagrody są gromadzone na mierniku wygranej łącznej bonusu.\nOdkryj złotą gwiazdę, aby zakończyć bonus i zebrać nagrody."
+        },
+        "portrait":{
+          "text1":"{collect} Odkryj symbol bonusu nagrody, aby uruchomić\nbonus nagrody.",
+          "text2":"BONUS NAGRODY – naciskaj sztabki złota,\naby odkrywać nagrody. Nagrody są gromadzone na mierniku\nwygranej łącznej bonusu.\nOdkryj złotą gwiazdę, aby zakończyć bonus\ni zebrać nagrody."
+        }
+      }
+    },
+    "winUpToText": "WYGRAJ DO",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "BRAK WYGRANEJ BONUSU",
+    "bonusWin": "BONUS: {0}",
+
+    "winAll":"WYGRAJ WSZYSTKO",
+    "bonusLives":"ZNAJDŹ 3, ABY ZAKOŃCZYĆ BONUS",
+    "bonusInfo":"ZNAJDŹ CO NAJMNIEJ 3 ZŁOTE GWIAZDY, ABY WYGRAĆ!",
+
+    "collect": "ZBIERZ",
+    "collectBonusInfo": "ODKRYJ ZŁOTĄ GWIAZDĘ,\nABY ZAKOŃCZYĆ BONUS \nI ZEBRAĆ NAGRODY!",
+    "collectBonusTotalWin": "ŁĄCZNA WYGRANA",
+
+    "yourNumbers": "TWOJE LICZBY",
+    "luckyNumbers": "WYGRYWAJĄCE LICZBY",
+    "wheelBonus" : {
+      "winUpToLine1" : "NAWET",
+      "winUpToLine2" : "MNOŻNIK NAGRODY",
+      "winPlaque" : {
+        "prize" : "NAGRODA",
+        "multiplier" : "MNOŻNIK",
+        "totalWin" : "ŁĄCZNA WYGRANA"
+      }
+    }
+  }
+}

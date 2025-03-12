@@ -1,0 +1,165 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "é {@minRTP}%",
+        "RTPrange": "é de {@minRTP}% a {@maxRTP}%",
+        "paybackTitle": "Pagamento esperado",
+        "paybackBody": "Para este jogo, o pagamento a longo prazo, teoricamente esperado {RTP}.",
+        "subheading": "Custo do bilhete: {ticketCost}",
+        "prizeLevel": "Nível do Prémio",
+        "description": "Descrição",
+        "prizeValue": "Número Correspondente a Prémio",
+        "descriptionText1": "GANHO DE BONUS",
+        "descriptionText2": "Bonus Win",
+        "overallChances": "Há uma hipótese global de 1 em {odds} de ganhar um prémio em cada peça",
+        "prizeDivision": "Divisão de Prémios",
+        "prizeRemaining": "APrémios aproximados remanescentes",
+        "oddsPerPlay": "Odds Por Jogo"
+    },
+    "title": "VIP Gold Grand",
+    "MenuCommand":
+    {
+        "price": "Preço",
+        "stake": "Aposta",
+        "howToPlay": "Ajuda",
+        "paytable": "Tabela de prémios",
+        "close": "Fechar",
+        "audio":
+        {
+            "sound": "Som",
+            "on": "Ligado",
+            "off": "Desligado"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Erro: ",
+        "genericErrorText": "Ocorreu um erro interno. SAIR e relançar o jogo."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "CUSTO DO BILHETE",
+        "ticketSelect_ticketCost": "CUSTO DO BILHETE",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "TENTAR "
+        },
+        "footer_win":
+        {
+            "BUY": "GANHAR",
+            "TRY": "GANHO DEMO"
+        },
+        "button_wheel": "RODAR",
+        "button_buy":
+        {
+            "BUY": "COMPRAR",
+            "TRY": "TENTAR"
+        },
+        "button_try": "TENTAR",
+        "button_continue": "CONTINUAR",
+        "button_retry": "TENTAR NOVAMENTE",
+        "button_moveToMoney": "AVANÇAR PARA DINHEIRO",
+        "button_autoPlay": "REVELAR TUDO",
+        "button_autoPlayCollectBonus": "REVELAR AUTOMATICAMENTE",
+        "button_stop": "PARAR",
+        "button_playAgain":
+        {
+            "BUY": "CONTINUAR A JOGAR",
+            "TRY": "TENTAR NOVAMENTE"
+        },
+        "button_tryAgain": "TENTAR NOVAMENTE",
+        "button_ok": "OK",
+        "button_exit": "SAIR",
+
+        "error_button_exit": "SAIR",
+        "error_title": "ERRO",
+
+        "message_nonWin": "MELHOR SORTE\nPRÓXIMA VEZ",
+        "message_win":
+        {
+            "BUY": "TOTAL GANHO",
+            "TRY": "GANHO TOTAL DEMO"
+        },
+        "howToPlayTitle": "COMO JOGAR",
+        "bonusCard":
+        {
+            "InstantWin": "GANHO\nINSTANTÂNEO",
+            "WheelBonus": "RODA\nBONUS",
+            "CollectBonus": "PRÉMIO\nBÓNUS"
+        },
+        "howToPlay":
+        {
+            "page1":
+            {
+                "landscape":
+                {
+                    "text1": "Combine os seus números com os números vencedores e ganhe um prémio.",
+                    "text2": "{instantWin} Revele um símbolo da Coroa para uma vitória instantânea.",
+                    "text3": "{instantWin10X} Um símbolo de Coroa 2x, 5x, ou 10x multiplicará o prémio."
+                },
+                "portrait":
+                {
+                    "text1": "Combine os seus números com os números vencedores e ganhe um prémio.",
+                    "text2": "{instantWin} Revele um símbolo da Coroa para uma vitória instantânea.",
+                    "text3": "{instantWin10X} Um símbolo de Coroa 2x, 5x, ou 10x multiplicará o prémio."
+                }
+            },
+            "page2":
+            {
+                "landscape":
+                {
+                    "text1": "{wheel} Revele um símbolo de Bónus de Roda para activar o Bónus de Roda.",
+                    "text2": "BÓNUS DA RODA - Gire a roda. A roda interior revela\no prémio e a roda exterior revela o multiplicador do prémio"
+                },
+                "portrait":
+                {
+                    "text1": "{wheel} Revele um símbolo de Bónus de Roda para activar\no Bónus de Roda",
+                    "text2": "BÓNUS DA RODA - Gire a roda. A roda interior\nrevela o prémio e a roda exterior revela\no multiplicador do prémio"
+                }
+            },
+            "page3":
+            {
+                "landscape":
+                {
+                    "text1": "{collect} Revelar um símbolo de Prémio Bónus para activar o Prémio Bónus",
+                    "text2": "PRÉMIO BÓNUS - Pressione as Barras de Ouro para revelar os prémios. Os prémios acumulam-se no medidor de Bónus Total.\nRevele uma Estrela de Ouro para terminar o bónus e recolher os prémios"
+                },
+                "portrait":
+                {
+                    "text1": "{collect} Revelar um símbolo de Prémio Bónus para activar\no Prémio Bónus",
+                    "text2": "PRÉMIO BÓNUS - Pressione as Barras de Ouro para revelar os prémios.\nOs prémios acumulam-se no medidor de Bónus Total.\nRevelar uma Estrela de Ouro para terminar o bónus e\nrecolher os prémios"
+                }
+            }
+        },
+        "winUpToText": "GANHE ATÉ",
+        "winUpToValue": "{0}!",
+        "bonus": "BÓNUS",
+        "bonusNoWin": "NENHUM GANHO DE BÓNUS",
+        "bonusWin": "BÓNUS: {0}",
+
+        "winAll": "GANHAR TODOS",
+        "bonusLives": "FINALIZAR 3 AO BÓNUS FINAL",
+        "bonusInfo": "CONHEÇA 3 OU MAIS ESTRELAS DE OURO PARA GANHAR!",
+
+        "collect": "RECOLHER",
+        "collectBonusInfo": "REVELE A ESTRELA DE OURO\nPARA TERMINAR O JOGO &\nRECOLHER OS SEUS PRÉMIOS!",
+        "collectBonusTotalWin": "TOTAL DE BÓNUS GANHO",
+
+        "yourNumbers": "OS SEUS NÚMEROS",
+        "luckyNumbers": "NÚMEROS VENCEDORES",
+        "wheelBonus":
+        {
+            "winUpToLine1": "ATÉ",
+            "winUpToLine2": "MULTIPLICADOR DE PRÉMIOS",
+            "winPlaque":
+            {
+                "prize": "PRÉMIO",
+                "multiplier": "MULTIPLICADOR",
+                "totalWin": "GANHO TOTAL DE BÓNUS"
+            }
+        }
+    }
+}

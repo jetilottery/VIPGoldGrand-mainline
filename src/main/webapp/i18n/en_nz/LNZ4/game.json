@@ -1,0 +1,165 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+        "subheading": "Ticket Cost: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "description": "Description",
+        "prizeValue": "Prize Value",
+        "descriptionText1": "Number Match Win",
+        "descriptionText2": "Bonus Win",
+        "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prizes Remaining",
+        "oddsPerPlay": "Odds Per Play"
+    },
+    "title": "VIP Gold Grand",
+    "MenuCommand":
+    {
+        "price": "Price",
+        "stake": "Stake",
+        "howToPlay": "Help",
+        "paytable": "Paytable",
+        "close": "Close",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "TICKET COST",
+        "ticketSelect_ticketCost": "TICKET COST",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "WINS",
+            "TRY": "DEMO WINS"
+        },
+        "button_wheel": "SPIN",
+        "button_buy":
+        {
+            "BUY": "BUY",
+            "TRY": "TRY"
+        },
+        "button_try": "TRY",
+        "button_continue": "CONTINUE",
+        "button_retry": "RETRY",
+        "button_moveToMoney": "PLAY WITH MONEY",
+        "button_autoPlay": "REVEAL ALL",
+        "button_autoPlayCollectBonus": "AUTO REVEAL",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "PLAY AGAIN",
+            "TRY": "TRY AGAIN"
+        },
+        "button_tryAgain": "TRY AGAIN",
+        "button_ok": "OK",
+        "button_exit": "EXIT",
+
+        "error_button_exit": "EXIT",
+        "error_title": "ERROR",
+
+        "message_nonWin": "NOT A WINNER\nBETTER LUCK NEXT TIME",
+        "message_win":
+        {
+            "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+            "TRY": "THANKS FOR TRYING!\nYOU COULD HAVE WON"
+        },
+        "howToPlayTitle": "HOW TO PLAY",
+        "bonusCard":
+        {
+            "InstantWin": "INSTANT\nWIN",
+            "WheelBonus": "WHEEL\nBONUS",
+            "CollectBonus": "PRIZE\nBONUS"
+        },
+        "howToPlay":
+        {
+            "page1":
+            {
+                "landscape":
+                {
+                    "text1": "Match Your Numbers to Winning Numbers and win a prize.",
+                    "text2": "{instantWin} Reveal a Crown symbol for an Instant Win.",
+                    "text3": "{instantWin10X} A 2x, 5x, or 10x Crown Symbol will multiply the prize."
+                },
+                "portrait":
+                {
+                    "text1": "Match Your Numbers to Winning Numbers and win a prize.",
+                    "text2": "{instantWin} Reveal a Crown symbol for an Instant Win.",
+                    "text3": "{instantWin10X} A 2x, 5x, or 10x Crown Symbol will multiply the prize."
+                }
+            },
+            "page2":
+            {
+                "landscape":
+                {
+                    "text1": "{wheel} Reveal a Wheel Bonus symbol to trigger the Wheel Bonus.",
+                    "text2": "WHEEL BONUS – Spin the wheel. The inner wheel reveals\nthe prize and the outer wheel reveals the prize multiplier."
+                },
+                "portrait":
+                {
+                    "text1": "{wheel} Reveal a Wheel Bonus symbol to trigger\nthe Wheel Bonus.",
+                    "text2": "WHEEL BONUS – Spin the wheel.\nThe inner wheel reveals the prize and\nthe outer wheel reveals the prize multiplier."
+                }
+            },
+            "page3":
+            {
+                "landscape":
+                {
+                    "text1": "{collect} Reveal a Prize Bonus symbol to trigger the Prize Bonus.",
+                    "text2": "PRIZE BONUS - Press the Gold Bars to reveal prizes. Prizes accumulate in the Total Bonus Win meter.\nReveal a Gold Star to end the bonus and collect the prizes."
+                },
+                "portrait":
+                {
+                    "text1": "{collect} Reveal a Prize Bonus symbol to trigger\nthe Prize Bonus.",
+                    "text2": "PRIZE BONUS - Press the Gold Bars to\nreveal prizes. Prizes accumulate in the\nTotal Bonus Win meter.\nReveal a Gold Star to end the bonus\nand collect the prizes."
+                }
+            }
+        },
+        "winUpToText": "WIN UP TO",
+        "winUpToValue": "{0}!",
+        "bonus": "BONUS",
+        "bonusNoWin": "NO BONUS WIN",
+        "bonusWin": "BONUS: {0}",
+
+        "winAll": "WIN ALL",
+        "bonusLives": "FIND 3 TO END BONUS",
+        "bonusInfo": "FIND 3 OR MORE GOLD STARS TO WIN!",
+
+        "collect": "COLLECT",
+        "collectBonusInfo": "REVEAL THE GOLD STAR\nTO END THE BONUS &\nCOLLECT YOUR PRIZES!",
+        "collectBonusTotalWin": "TOTAL BONUS WIN",
+
+        "yourNumbers": "YOUR NUMBERS",
+        "luckyNumbers": "WINNING NUMBERS",
+        "wheelBonus":
+        {
+            "winUpToLine1": "UP TO",
+            "winUpToLine2": "PRIZE MULTIPLIER",
+            "winPlaque":
+            {
+                "prize": "PRIZE",
+                "multiplier": "MULTIPLIER",
+                "totalWin": "TOTAL BONUS WIN"
+            }
+        }
+    }
+}

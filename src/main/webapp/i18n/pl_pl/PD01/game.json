@@ -1,0 +1,142 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "wynosi {@minRTP}%",
+    "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}.",
+    "subheading": "Opłata za LOS: {ticketCost}",
+    "prizeLevel": "Stopień wygranej",
+    "description": "Opis",
+    "prizeValue": "Wartość wygranej",
+    "descriptionText1": "Wygrana dopasowanej liczby",
+    "descriptionText2": "Wygrana bonusowa",
+    "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {odds}.",
+    "prizeDivision": "Stopień wygranej",
+    "prizeRemaining": "Pozostało do wygrania",
+    "oddsPerPlay": "Szansa na wygraną"
+  },
+  "title": "Sztabki",
+  "MenuCommand": {
+    "price": "Cena",
+    "stake": "Stawka",
+    "howToPlay": "Zasady gry",
+    "paytable": "Tabela wygranych",
+    "close": "Zamknij",
+    "audio": {
+      "sound": "Dźwięk",
+      "on": "Wł.",
+      "off": "Wył."
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+    "button_wheel" : "OBRÓĆ",
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "KONTYNUUJ",
+	"button_retry": "GRAJ PONOWNIE",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "AUTO",
+    "button_autoPlayCollectBonus" : "AUTO",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+
+    "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+    "message_win": {
+      "BUY": "ŁĄCZNA WYGRANA",
+      "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+    },
+    "howToPlayTitle" : "ZASADY GRY",
+    "bonusCard" : {
+      "InstantWin" : "NATYCHMIASTOWA\nWYGRANA",
+      "WheelBonus" : "ZAKRĘĆ\nKOŁEM",
+      "CollectBonus" : "ODKRYJ\nSZTABKI"
+    },
+    "howToPlay": {
+      "page1":{
+        "landscape":{
+          "text1":"Dopasuj Twoje liczby do wygrywających liczb, aby wygrać.",
+          "text2":"{instantWin} Odkryj symbol korony, aby zdobyć natychmiastową wygraną.",
+          "text3":"{instantWin10X} Odkryj mnożnik, aby zwiększyć wygraną."
+        },
+        "portrait":{
+          "text1":"Dopasuj Twoje liczby do wygrywających liczb, aby wygrać.",
+          "text2":"{instantWin} Odkryj symbol korony, aby zdobyć natychmiastową wygraną.",
+          "text3":"{instantWin10X} Odkryj mnożnik, aby zwiększyć wygraną."
+        }
+      },
+      "page2":{
+        "landscape":{
+          "text1":"{wheel} Odkryj symbol koła, aby uruchomić rundę bonusową.",
+          "text2":"Zakręć kołem i sprawdź swoje wygrane. Koło\nwewnętrzne pokazuje wartość wygranej, a\nkoło zewnętrzne mnożnik wygranej."
+        },
+        "portrait":{
+          "text1":"{wheel} Odkryj symbol koła, aby uruchomić\nrundę bonusową.",
+          "text2":"Zakręć kołem i sprawdź swoje wygrane. Koło\nwewnętrzne pokazuje wartość wygranej, a\nkoło zewnętrzne mnożnik wygranej."
+        }
+      },
+      "page3":{
+        "landscape":{
+          "text1":"{collect} Odkryj symbol sztabki, aby uruchomić rundę bonusową.",
+          "text2":"Odkrywaj sztabki, aby wygrywać.\nOdkryj symbol złotej gwiazdki, aby zakończyć rundę bonusową i zebrać wygrane."
+        },
+        "portrait":{
+          "text1":"{collect} Odkryj symbol sztabki, aby uruchomić\nrundę bonusową.",
+          "text2":"Odkrywaj sztabki, aby wygrywać.\nOdkryj symbol złotej gwiazdki, aby zakończyć rundę\nbonusową i zebrać wygrane."
+        }
+      }
+    },
+    "winUpToText": "WYGRAJ DO",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "BRAK WYGRANEJ BONUSU",
+    "bonusWin": "BONUS: {0}",
+
+    "winAll":"WYGRAJ WSZYSTKO",
+    "bonusLives":"ZNAJDŹ 3, ABY ZAKOŃCZYĆ BONUS",
+    "bonusInfo":"ZNAJDŹ CO NAJMNIEJ 3 ZŁOTE GWIAZDY, ABY WYGRAĆ!",
+
+    "collect": "ZBIERZ",
+    "collectBonusInfo": "ODKRYJ GWIAZDKĘ,\nABY ODEBRAĆ BONUS.",
+    "collectBonusTotalWin": "ŁĄCZNA WYGRANA",
+
+    "yourNumbers": "TWOJE LICZBY",
+    "luckyNumbers": "WYGRYWAJĄCE LICZBY",
+    "wheelBonus" : {
+      "winUpToLine1" : "NAWET",
+      "winUpToLine2" : "MNOŻNIK WYGRANEJ",
+      "winPlaque" : {
+        "prize" : "WYGRANA",
+        "multiplier" : "MNOŻNIK",
+        "totalWin" : "ŁĄCZNA WYGRANA"
+      }
+    }
+  }
+}
